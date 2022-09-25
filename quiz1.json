@@ -1,0 +1,38 @@
+{
+  "1": {
+    "q": "who is quizy ant?",
+    "a": [
+      "quizy ant bot 1",
+      "quizy ant chapter 2",
+      "you",
+      "i dont know"
+    ],
+    "aint": 2,
+    "emojisinstead": {
+      "1": "<:rbx_bot:1005394280422068284>",
+      "2": "<:rbx_bot270:1006192955889029161>",
+      "3": "<:rbx_bot90:1006192946720288849>",
+      "4": "<:rbx_bot180:1006192951237550140>"
+    }
+  },
+  "2": {
+    "q": "what is the name of the action to make others view your message",
+    "a": [
+      "CREATE",
+      "POST",
+      ".send()",
+      "i dont know"
+    ],
+    "aint": 1
+  },
+  "3": {
+    "q": "?",
+    "a": [
+      "black berry messager",
+      "bumble bee' moo",
+      "car7002?",
+      "bubble bee man"
+    ],
+    "aint": 4
+  }
+}
